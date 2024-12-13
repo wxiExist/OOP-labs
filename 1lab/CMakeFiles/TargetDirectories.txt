@@ -1,0 +1,5 @@
+C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/CMakeFiles/main.dir
+C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/CMakeFiles/test_gcd.dir
+C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/CMakeFiles/test.dir
+C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/CMakeFiles/edit_cache.dir
+C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/CMakeFiles/rebuild_cache.dir

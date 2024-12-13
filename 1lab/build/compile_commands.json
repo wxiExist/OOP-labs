@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\gtest\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++14 /FoCMakeFiles\\main.dir\\main.cpp.obj /FdCMakeFiles\\main.dir/ /FS -c C:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\main.cpp",
+  "file": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\gtest\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++14 /FoCMakeFiles\\main.dir\\gcd.cpp.obj /FdCMakeFiles\\main.dir/ /FS -c C:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\gcd.cpp",
+  "file": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/gcd.cpp",
+  "output": "CMakeFiles/main.dir/gcd.cpp.obj"
+},
+{
+  "directory": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\gtest\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++14 /FoCMakeFiles\\test_gcd.dir\\test_gcd.cpp.obj /FdCMakeFiles\\test_gcd.dir/ /FS -c C:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\test_gcd.cpp",
+  "file": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/test_gcd.cpp",
+  "output": "CMakeFiles/test_gcd.dir/test_gcd.cpp.obj"
+},
+{
+  "directory": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\gtest\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++14 /FoCMakeFiles\\test_gcd.dir\\gcd.cpp.obj /FdCMakeFiles\\test_gcd.dir/ /FS -c C:\\Users\\mbpye\\Documents\\GitHub\\OOP-labs\\1lab\\gcd.cpp",
+  "file": "C:/Users/mbpye/Documents/GitHub/OOP-labs/1lab/gcd.cpp",
+  "output": "CMakeFiles/test_gcd.dir/gcd.cpp.obj"
+}
+]
