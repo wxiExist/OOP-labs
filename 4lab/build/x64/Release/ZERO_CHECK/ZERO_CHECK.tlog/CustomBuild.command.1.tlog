@@ -1,0 +1,10 @@
+^C:\USERS\MBPYE\DOCUMENTS\GITHUB\OOP-LABS\4LAB\BUILD\CMAKEFILES\305FC05EAE2CFAAF811928C1C6771F2E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mbpye/Documents/GitHub/OOP-labs/4lab -BC:/Users/mbpye/Documents/GitHub/OOP-labs/4lab/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mbpye/Documents/GitHub/OOP-labs/4lab/build/Lab04_Variant32.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

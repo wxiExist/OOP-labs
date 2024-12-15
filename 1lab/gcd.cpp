@@ -1,3 +1,4 @@
+#include <cmath>
 #include "gcd.h"
 
 int gcd(int a, int b) {
@@ -6,5 +7,5 @@ int gcd(int a, int b) {
         b = a % b;
         a = temp;
     }
-    return a;
+    return std::abs(a); 
 }

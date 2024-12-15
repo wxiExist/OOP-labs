@@ -1,0 +1,3 @@
+C:/Users/mbpye/Documents/GitHub/OOP-labs/4lab/build/CMakeFiles/Lab04_Variant32.dir
+C:/Users/mbpye/Documents/GitHub/OOP-labs/4lab/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mbpye/Documents/GitHub/OOP-labs/4lab/build/CMakeFiles/ZERO_CHECK.dir
